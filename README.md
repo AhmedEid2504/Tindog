@@ -1,2 +1,3 @@
 # TinDog
-Tinder but for dogs
+Tinder but for dogs 
+Bootstrap website
